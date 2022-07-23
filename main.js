@@ -1,7 +1,7 @@
 // CSS NOTE
 // Another way to get or find a specific element in html
 // You can use document.querySelector('ele id')
-// This will only get the first instance of an element with the id (i.e if working with a list with same id eleements na d you wanna delete only the first list element)
+// This will only get the first instance of an element with the id (i.e if working with a list with same id elements and you wan to delete only the first list element)
 console.log("Here")
 
 let dogArray = []
